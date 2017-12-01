@@ -1,0 +1,20 @@
+--HELP PAGE--
+
+
+--In order to create the 16 object set, the "Main_Script" needs to be run by pressing ctrl+e
+--The Main script makes reference to a table in a text file called "object_table" in which
+--each object is specificied as a binary code (ex; 0 1 1 1). The main script runs through
+--each line of this table, generating all the objects specified by the rows.
+
+--IMPORTANT--
+--In order to make the objects, you need to change the "objTable" path in the script to where you've placed the object_table.txt file.
+--If you don't specify an object table, the script will generate all possible objects
+
+--OTHER PATHS THAT NEED TO BE CHANGED IN SCRIPT--
+--"sysInfo.currentdir" --> Current directory. Set this to the folder where all the scripts are.
+--"textureMainPath" --> Location of where texture of object bodies and arms are placed
+--"savePath" --> Location of where you want objects and pictures/videos saved
+
+--NOTE: Make sure to put double slashes in path locations (for example; "C:\\Users\\Milad\\Documents" instead of "C:\Users\Milad\Documents)
+
+--NOTE: MAKE SURE THAT ALL SCRIPTS ARE IN SAME FOLDER.
