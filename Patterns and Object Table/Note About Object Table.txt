@@ -1,0 +1,1 @@
+NOTE: The "object_table.txt" provided generates all the possible objects if you use 4 feature dimensions with 2 feature values each (i.e. The base set of objects)
