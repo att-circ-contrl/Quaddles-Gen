@@ -177,7 +177,7 @@ local polygonner = TurboSmooth()
 polygonner.iterations = 2
 local polygonner2 = TesselLate()
 --addModifier objbody(polygonner)
-addModifier objbody(polygonner2)
+--addModifier objbody(polygonner2)
 
 pyramidOutput = #(controlPoint,objbody,polygonner2)
 return pyramidOutput

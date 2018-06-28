@@ -407,7 +407,7 @@ local polygonner = TurboSmooth()
 polygonner.iterations = 2
 local polygonner2 = TesselLate()
 --addModifier objbody(polygonner)
-addModifier objbody(polygonner2)
+--addModifier objbody(polygonner2)
 
 
 dumbellOutput = #(controlPoint, secondControlPoint, objbody, reflector, polygonner2)

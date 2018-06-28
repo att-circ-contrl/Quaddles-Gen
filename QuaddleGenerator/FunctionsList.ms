@@ -473,6 +473,7 @@ fn ManipulateSurfaceTexture objbody body smoothness:objVals[findItem dims "Smoot
 		wrinkler.width = 100
 		wrinkler.height = 100
 		addmodifier objbody wrinkler
+		convertToPoly(objbody)
 	)
 	--OTHER TEXTURES
 	
