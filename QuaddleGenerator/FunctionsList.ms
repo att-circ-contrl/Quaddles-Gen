@@ -368,7 +368,7 @@ fn ApplyTexture objbody textureMainPath:textureMainPath dims:dims vals:vals objv
 			map.height = 55			
 			map.utile = 1.5
 			map.vtile = 1
-			map.cap = true
+			map.cap = false
 			addmodifier objbody map
 		)
 	)
