@@ -1,5 +1,16 @@
 --QuaddleGenerator
 
+-- Attention-Circuits-Control Laboratory (www.attention-circuits-control.org) --
+
+--For more information on how Quaddles are generated and may be used:
+--Watson, MR., Voloh, B., Naghizadeh, M., Womelsdorf, T., (2018) “Quaddles: A multidimensional 3D object set with parametrically-controlled
+-- and customizable features” Behav Res Methods.
+
+--Website guide: http://accl.psy.vanderbilt.edu/resources/analysis-tools/3d-image-material/
+--Brief instructions on how to use scripts: http://accl.psy.vanderbilt.edu/quaddlegenerator-brief-instructions/
+
+--Scripts, objects and in depth manual available on github: https://github.com/att-circ-contrl/Quaddles-Gen
+
 --Copyright (C) 2017 Milad Naghizadeh, Marcus Watson, Ben Voloh, Thilo Womelsdorf, Attention Circuits Control Lab
 
 --Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
