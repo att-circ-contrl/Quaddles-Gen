@@ -1,6 +1,7 @@
 --QuaddleGenerator
 
 -- Attention-Circuits-Control Laboratory (www.attention-circuits-control.org) --
+--Objects are all generated using 3ds Max 2017, and its inbuilt Maxscript--
 
 --For more information on how Quaddles are generated and may be used:
 --Watson, MR., Voloh, B., Naghizadeh, M., Womelsdorf, T., (2018) “Quaddles: A multidimensional 3D object set with parametrically-controlled
